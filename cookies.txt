@@ -1,0 +1,16 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://www.kaggle.com/"
+#   2) curl --cookie cookies.txt "https://www.kaggle.com/"
+#   3) aria2c --load-cookies cookies.txt "https://www.kaggle.com/"
+#
+.kaggle.com	TRUE	/	FALSE	1608714907	_ga	GA1.2.959289837.1542128726
+www.kaggle.com	FALSE	/	FALSE	1557888114	ka_sessionid	bde5c960beda5157a6db60c0b3ce299ff013a2fd
+.kaggle.com	TRUE	/	FALSE	1568802890	intercom-id-koj6gxx6	2afa72c6-952a-4ebe-a733-212d69361a40
+www.kaggle.com	FALSE	/	TRUE	0	__RequestVerificationToken	OF_4V3vdg3s2n4DQgWKYoKjUYAc6A27H8_Mi34KEBauu6gxfJ2YT4zcfPX6Ywh35H2yDJ9Ati8dhRUVsqqRRyiI9hwU1
+.www.kaggle.com	TRUE	/	FALSE	0	ARRAffinity	dd27f47c0b676ed78610c4a5f44061be57d641105ae0b12a295befcee007674c
+.kaggle.com	TRUE	/	FALSE	1545729307	_gid	GA1.2.552510690.1545472490
+.kaggle.com	TRUE	/	TRUE	0	.ASPXAUTH	5AD56B068F12B2BCDF36B1CE0BCA7307EA90C575D07DD1D0BE06BEA9B6B167F276BC7F814AD503B960CBB1DBCCE934B5B7125C737C2079DC3CA3FD7BAFD2EC86FE30DBA5ABB6BBB7735BB1B1757B0AF1DCF0DB0F
+www.kaggle.com	FALSE	/	TRUE	0	XSRF-TOKEN	57g0TvkefehtROPya2y3r3189n9hy9Jt-ekbXwZwf-aa3i6Y0i8YifTmbpScjKwAKUvvefAZ8XdwuU2bPsJuGwfZZfI1
+.kaggle.com	TRUE	/	FALSE	1546247715	intercom-session-koj6gxx6	UGZCVU1tWXVlaVNscVQxUkI3UkVaeXJ4Vkh4c3hDNDJEWWVscGFYNHdZbEVXWFVjTVBiWTVIYTQ4MHRPaFErdS0tQUJaZkNld25yTG5jQ0poNW9zcElVZz09--9f7145645c7ae62b74eb205fea3024fbca8e8cc0
